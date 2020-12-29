@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gtechzilla" alt="gtechzilla" /> </p>
 
-- 🔭 I’m currently working on [Analysis of Student data In the Moodle Learning Management System](https://github.com/gtechzilla/moodle)
+- 🔭 I’m currently working on [
+Uber Nairobi Ambulance Perambulation Challenge](https://zindi.africa/competitions/uber-nairobi-ambulance-perambulation-challenge)
 
 - 🌱 I’m currently learning **Pytorch for Computer Vision**
 
