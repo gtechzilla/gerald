@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Deep Learning Graph Neural Networks**
 
-- 👨‍💻 All of my projects are available at [gtechzilla.github.io](gtechzilla.github.io)
+- 👨‍💻 All of my projects are available at [https://sites.google.com/10academy.org/geraldokioma/home](https://sites.google.com/10academy.org/geraldokioma/home)
 
 - 💬 Ask me about **Machine Learning, Data Visulization, Data Analysis**
 
