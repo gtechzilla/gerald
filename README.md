@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gtechzilla" alt="gtechzilla" /> </p>
 
-- 🔭 I’m currently working on [
-Uber Nairobi Ambulance Perambulation Challenge](https://zindi.africa/competitions/uber-nairobi-ambulance-perambulation-challenge)
+- 🔭 I’m currently working on [Building A Randomizer For Cargo Claims Predictions Using Computer Vision and Machine Learning](https://omdena.com/challenges/ai-cargo-claims/)
 
 - 🌱 I’m currently learning **Pytorch for Computer Vision**
 
