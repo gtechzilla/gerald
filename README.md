@@ -3,11 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gtechzilla" alt="gtechzilla" /> </p>
 
-- 🔭 I’m currently working on [Building A Randomizer For Cargo Claims Predictions Using Computer Vision and Machine Learning](https://omdena.com/challenges/ai-cargo-claims/)
-
-- 🌱 I’m currently learning **Pytorch Geometric for Graph COnvolutional Neural Networks**
-
-- 🤝 I’m looking for help with **Deep Learning Graph Neural Networks**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/10academy.org/geraldokioma/home](https://sites.google.com/10academy.org/geraldokioma/home)
 
