@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gerald Okioma</h1>
 <h3 align="center"> </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gtechzilla" alt="gtechzilla" /> </p>
 
 
 - 💬 Ask me about **Machine Learning, Data Engineering, Big Data, Python**
 
 - 📫 How to reach me **okiomagerald@gmail.com**
 
-- ⚡ Fun fact **Coffee all the way**
 
 
 
