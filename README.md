@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gerald Okioma</h1>
 <h3 align="center"> </h3>
 
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gtechzilla)
 
 - 💬 Ask me about **Machine Learning, Data Engineering, Big Data, Python**
 
