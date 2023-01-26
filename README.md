@@ -5,10 +5,6 @@
 
 - 💬 Ask me about **Machine Learning, Data Engineering, Big Data, Python**
 
-- 📫 How to reach me **okiomagerald@gmail.com**
-
-
-
 
 <p align="center">
 <a href="https://twitter.com/okiomagerald" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="okiomagerald" height="30" width="30" /></a>
